@@ -47,7 +47,11 @@ git clone [copied fork url]
     ```shell
     ./venv/bin/activate
     ```
+<<<<<<< HEAD
     More information [here:](https://docs.python.org/3/library/venv.html)  
+=======
+    More information [here:] (https://docs.python.org/3/library/venv.html)  
+>>>>>>> 19e23aa (commit file changes)
 
 2. Install our dependencies using [python poetry](https://python-poetry.org/docs/#installing-manually)
    ```shell
@@ -126,6 +130,10 @@ npm run webpack-dev # this only runs it once
 
 npm run webpack-watch # this does the same as above, but listens for updates
 ```
+<<<<<<< HEAD
 
 #### Problem Solving Errors
 There have been a few issues reported during set-up.  For a list of possible error messages you are encountering and their fixes check out [Problem Solving](./problem-solving.md)
+=======
+There have been a few issues reported during set-up.  For a list of possible error messages you are encountering and their fixes check out [Problem Solving](./problem-solving.md)
+>>>>>>> 19e23aa (commit file changes)
