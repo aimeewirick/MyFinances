@@ -130,6 +130,12 @@ npm run webpack-dev # this only runs it once
 
 npm run webpack-watch # this does the same as above, but listens for updates
 ```
+
+### Open website in local browser
+
+```shell
+http://127.0.0.1:8000/
+```
 <<<<<<< HEAD
 
 #### Problem Solving Errors
